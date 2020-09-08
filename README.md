@@ -3,7 +3,7 @@
 
 ## PENGERTIAN WIDGETS
 
-> Widget adalah sebuah “perwakilan” dari aplikasi yang memungkinkan pengguna untuk dapat menggunakan fitur dari aplikasi yang diwakilkan tersebut secara langsung tanpa harus membuka aplikasi “sesungguhnya”. Biasanya widget terletak pada home screen atau tampilan awal layar perangkat Android anda.ng berjalan dengan dinamis. Node.js dibuat berdasarkan runtime Javascript, dan dapat dijalankan oleh berbagai  macam sistem operasi. Node.js pun memiliki banyak pustaka HTTP yang dapat membuat menjalankan server tanpa program server web seperti Apache, dan lain-lain.
+> Widget adalah aspek penting dari penyesuaian layar utama. Anda dapat melihatnya sebagai tampilan "sekilas" dari data dan fungsi paling penting aplikasi yang dapat diakses langsung dari layar utama pengguna. Pengguna dapat memindahkan widget ke seluruh panel layar utama, dan, jika didukung, mengubah ukurannya untuk menyesuaikan jumlah informasi di dalam widget sesuai keinginan.
 
 #
 ## REPOSITORYES INI DARI UDACITY
@@ -14,28 +14,30 @@
 ## Screenshots 
 > Ini adalah tampilan awal aplikasi kita dapat menambahkan tanaman yang nantinya akan kita siram di setiap waktunya
 > 
-> 
-![Screenshot1](screenshots/tambahnanaman.jpeg) 
+> ![index](https://user-images.githubusercontent.com/60208227/92429479-4317cb80-f1bc-11ea-8809-ab6ee4841661.jpg)
+
 ## Screenshots 
 > Setelah itu kita dapat menampilkan tanaman yang sudah kita tambahkan tadi di hp kita dengan menggunakan fitur Widget 
 > 
 > 
-![Screenshot2](screenshots/widget1.jpeg) 
+
+![w0](https://user-images.githubusercontent.com/60208227/92429485-4612bc00-f1bc-11ea-9ac8-df4134cbaa28.jpg)
 ## Screenshots 
 > Cara menembahkanya tekan layar sekitar 5detik kemudian pilih opsi widget dan cari app mygarden
 > 
 > 
-![Screenshot3](screenshots/widget2.jpeg)
+
+![w1](https://user-images.githubusercontent.com/60208227/92429487-4743e900-f1bc-11ea-9694-37c8eb09e9e7.jpg)
 ## Screenshots 
 > Tampilan dari fitur detail tanaman terdapat umur tanaman dan water meter 
 > 
 > 
-![Screenshot4](screenshots/potrait.jpeg) 
+![index2](https://user-images.githubusercontent.com/60208227/92429483-44e18f00-f1bc-11ea-9ecc-9ac655f8b500.jpg)
 ## Screenshots 
 > Tampilan landscape
 > 
 > 
-![Screenshot5](screenshots/landscape.jpeg) 
+![index23](https://user-images.githubusercontent.com/60208227/92429484-457a2580-f1bc-11ea-9c42-17e4ae70c892.jpg)
 
 ## Catatan
 ### Mungkin pada tutorial udacity dependency nya berbeda dengan android studio update saat ini maka
